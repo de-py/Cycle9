@@ -7,7 +7,5 @@ This project was for a security tool development course. I decided to use this c
 - Command line functions to scan for a value without the need to program
 - Server API using Rocket.rs for use in a web application. 
 
-## Demo
-A very informal demo of the tool in its current state. 
-<https://www.youtube.com/watch?v=pbGPd-It-iY>
+
  
